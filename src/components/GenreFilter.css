@@ -1,0 +1,25 @@
+.filter-container{
+  background: hsl(0, 0%, 92%);
+  padding:  16px 12px;
+  border-radius: 6px;
+}
+h2{
+  margin-bottom: 0.8rem;
+}
+.btns-container {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.btns-container button {
+  border: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  background: hsl(0, 0%, 80%);
+  font-weight: 600;
+}
+button:hover {
+  background: hsl(0, 0%, 70%);
+}

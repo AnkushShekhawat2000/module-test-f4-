@@ -1,0 +1,10 @@
+.App{
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.App h1{
+  text-align: center;
+  margin-bottom: 0.8rem;
+}
